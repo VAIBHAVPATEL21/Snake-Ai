@@ -1,5 +1,5 @@
 # Snake Game AI 
-AI driven snake game using Reinforcement Learning and Deep Q Learning.<br>
+AI driven snake game using Reinforcement Learning and Q Learning.<br>
 
 The game of Snake actually has a trivial, unbeatable solution. It can be driven by <b> Simple Non-ML Technique </b>by just traversing every block of the board, this gives the unbeateablre solution but it is very time taking and very brute force approach.
 
